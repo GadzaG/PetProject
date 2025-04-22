@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.API", "src\PetProject.API\PetProject.API.csproj", "{094DBE6A-74D6-4D1A-B62D-17F190933296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject..Domain", "src\PetProject..Domain\PetProject..Domain.csproj", "{9F0257C1-4308-4BA9-AE3F-02E01B272A76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Domain", "src\PetProject.Domain\PetProject.Domain.csproj", "{9F0257C1-4308-4BA9-AE3F-02E01B272A76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Infrastructure", "src\PetProject.Infrastructure\PetProject.Infrastructure.csproj", "{7D70BF6A-0933-4368-B260-1C38FC760068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Application", "PetProject.Application\PetProject.Application.csproj", "{0FB91133-2AB4-4ABE-BD18-E44679C345AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Application", "src\PetProject.Application\PetProject.Application.csproj", "{08CEAC7F-FB13-45E1-9FC2-0764FC686331}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,9 +32,9 @@ Global
 		{7D70BF6A-0933-4368-B260-1C38FC760068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D70BF6A-0933-4368-B260-1C38FC760068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D70BF6A-0933-4368-B260-1C38FC760068}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0FB91133-2AB4-4ABE-BD18-E44679C345AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FB91133-2AB4-4ABE-BD18-E44679C345AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FB91133-2AB4-4ABE-BD18-E44679C345AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FB91133-2AB4-4ABE-BD18-E44679C345AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CEAC7F-FB13-45E1-9FC2-0764FC686331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CEAC7F-FB13-45E1-9FC2-0764FC686331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CEAC7F-FB13-45E1-9FC2-0764FC686331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CEAC7F-FB13-45E1-9FC2-0764FC686331}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
